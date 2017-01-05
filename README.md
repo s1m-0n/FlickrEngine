@@ -12,4 +12,4 @@ Simon Wicha | simon.wicha@nomis-development.net
 
 ## License
 
-NDParallaxIntroView is available under the MIT license. See the LICENSE file for more info.
+FlickrEngine is available under the MIT license. See the LICENSE file for more info.
